@@ -1,8 +1,5 @@
 hello
 changed
 second change in new branch
-<<<<<<< HEAD
 A fourth change done locally to simulate a conflict
-=======
 third change to simulate a conflict
->>>>>>> 3b2b73e36500dd660fbf162bf0683fe0e339bd68
